@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" height="200"/>
 </div>
 
-### Что использовал при вёрстке проекта [3D-modeling-courses](https://shassdooit.github.io/3D-modeling-courses/)
+### Вёрстка по Bootstrap сетке v4 [3D-modeling-courses](https://shassdooit.github.io/3D-modeling-courses/)
 
 - Pixel Perfect 
 - Методология [БЭМ](https://ru.bem.info/methodology/)
